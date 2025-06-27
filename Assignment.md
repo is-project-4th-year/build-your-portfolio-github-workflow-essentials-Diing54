@@ -30,11 +30,14 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 - **Screenshot**: Shows milestone for "Portfolio Sections" and linked issues like navigation, about me, and projects.
 
-![Milestones and Issues](screenshots/milestones-issues.png)
+![Milestones and Issues](screenshots/Screenshot%20From%202025-06-27%2019-11-09.png)
+
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+- **Screenshot**: Displays tasks organized into columns—To Do, In Progress, and Done.
+
+![Project Board](screenshots/Screenshot%20From%202025-06-27%2014-55-07.png)
 
 ### C. Branching
 
