@@ -41,12 +41,19 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+- **Screenshot**: Lists branches like `feature/1-create-header-nav`, `feature/3-add-project-cards`, and `feature/4-write-about-me`.
+
+![Branching](screenshots/Pasted%20image.png)
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+- **Screenshot**: Shows a pull request for adding personal project cards, linked to a milestone, and reviewed before merging.
+
+![Pull Request](screenshots/Screenshot%20From%202025-06-27%2015-24-14.png)
 
 ### E. Merge Conflict Resolution
+- **Screenshot**: Shows resolution of a merge conflict in `index.html`, either in the GitHub UI
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![Merge Conflict](screenshots/Screenshot%20From%202025-06-27%2017-39-18.png)
+
+![Merge Conflict](screenshots/Screenshot%20From%202025-06-27%2017-39-44.png)
